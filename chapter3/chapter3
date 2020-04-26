@@ -1,1 +1,26 @@
 start
+
+確認問題
+問１　３
+○
+問２　２
+○
+問３　４、６
+2つとも○
+問４
+<!DOCTAPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="００.css">
+    <title>確認問題</title>
+</head>
+<body>
+    <div class="box1">
+        <div class="box2"></div>
+        <div class="box3"></div>
+    </div>
+</body>
+</html>
+
+おそらく○
